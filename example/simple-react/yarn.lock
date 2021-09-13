@@ -11153,10 +11153,10 @@ which@^2.0.1, which@^2.0.2:
   dependencies:
     isexe "^2.0.0"
 
-wobbly-canvas@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/wobbly-canvas/-/wobbly-canvas-1.0.0.tgz#b5e984c50179f02616a919f2f167b0476ea65376"
-  integrity sha512-6/Hhs+ZUlrr8ZdU1D+kKi3p4krC60bMgUJ+SwJ/YZHtOdISwOsXEgQCah5SwwrVaG1MiURaMDcW/yYfkebY2sA==
+wobbly-canvas@^1.0.2:
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/wobbly-canvas/-/wobbly-canvas-1.0.2.tgz#713f435ec229dc0dcb243caf76dd439a36ea2147"
+  integrity sha512-2y8WlL3T7PrV5cR9DHrftExiYwg03JvgM89j+gUSZMOoVCxjKHcRT5w0/dFXKf9x2aHpiwRjf83B3eUtYwMgzg==
 
 word-wrap@^1.2.3, word-wrap@~1.2.3:
   version "1.2.3"
