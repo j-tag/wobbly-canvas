@@ -1,0 +1,24 @@
+{
+  "name": "woblly-canvas",
+  "version": "1.0.0",
+  "description": "Simple wobbly effect like Discord login page.",
+  "main": "WobblyCanvas.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/J-TAG/wobbly-canvas.git"
+  },
+  "keywords": [
+    "wobbly",
+    "canvas",
+    "discord"
+  ],
+  "author": "Hesam Gholami",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/J-TAG/wobbly-canvas/issues"
+  },
+  "homepage": "https://github.com/J-TAG/wobbly-canvas#readme"
+}
