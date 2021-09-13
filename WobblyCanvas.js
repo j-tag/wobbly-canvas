@@ -48,7 +48,7 @@ class Blob {
         c.save();
         c.translate(-10, -10);
         c.scale(0.5, 0.5);
-        c.fillStyle = "#ddd";
+        c.fillStyle = this.fillColor;
         c.beginPath();
         c.moveTo(0, 0);
         bezierSkin(this.anchors, false);
@@ -163,6 +163,9 @@ const blob = new Blob()
 canvas.setAttribute("id", "wobbly-canvas")
 canvas.width = window.innerWidth
 canvas.height = window.innerHeight
+canvas.style.position = 'absolute'
+canvas.style.left = '0'
+canvas.style.top = '0'
 
 document.body.appendChild(canvas)
 
@@ -174,5 +177,13 @@ export default class WobblyCanvas {
 
     static close() {
         blob.close()
+    }
+
+    static wiggle() {
+        blob.wiggle()
+    }
+
+    static color(color) {
+        blob.fillColor = color
     }
 }
