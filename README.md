@@ -16,12 +16,12 @@ npm i --save wobbly-canvas
 or
 
 ```bash
-yard add wobbly-canvas
+yarn add wobbly-canvas
 ```
 
 # Usage 📐
 
-You need to import WobblyCanvas in your page. For example in a React app you can do this:
+You need to import `WobblyCanvas` in your page. For example in a React app you can do this:
 
 ```js
 import WobblyCanvas from "wobbly-canvas"
@@ -57,7 +57,7 @@ WobblyCanvas.close()
 
 You can find a simple React app which uses wobbly effect in `example` directory.
 
-# Aknowledgment 💭
+# Acknowledgment 💭
 
 This package is heavily inspired by this pen from Zevan Rosser:
 
