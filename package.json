@@ -1,5 +1,5 @@
 {
-  "name": "woblly-canvas",
+  "name": "wobbly-canvas",
   "version": "1.0.0",
   "description": "Simple wobbly effect like Discord login page.",
   "main": "WobblyCanvas.js",
