@@ -1,6 +1,6 @@
 {
   "name": "wobbly-canvas",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Simple wobbly effect like Discord login page.",
   "main": "WobblyCanvas.js",
   "scripts": {

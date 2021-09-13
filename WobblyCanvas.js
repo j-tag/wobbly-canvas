@@ -166,6 +166,7 @@ canvas.height = window.innerHeight
 canvas.style.position = 'absolute'
 canvas.style.left = '0'
 canvas.style.top = '0'
+canvas.style.pointerEvents = 'none'
 
 document.body.appendChild(canvas)
 
